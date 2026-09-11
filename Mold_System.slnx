@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MoldSystem.Cli/MoldSystem.Cli.csproj" />
+    <Project Path="src/MoldSystem.Core/MoldSystem.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MoldSystem.Core.Tests/MoldSystem.Core.Tests.csproj" />
+  </Folder>
+</Solution>
